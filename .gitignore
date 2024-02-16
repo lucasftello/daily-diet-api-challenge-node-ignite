@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Database
+db/*.sqlite
+
+# Build
+build
+
+# Environment
+.env
+.env.test
+
+# Others
+TODO.md
